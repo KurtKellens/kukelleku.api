@@ -1,0 +1,6 @@
+@kukelleku.api_HostAddress = http://localhost:5264
+
+GET {{kukelleku.api_HostAddress}}/api/news/vrt
+Accept: application/json
+
+###
